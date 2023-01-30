@@ -16,6 +16,20 @@ html{
     justify-content: center;
     position: relative;
     top: 100px;
+    
+    /*make items center of the page methods:*/
+        /*position: absolute;
+      top: 50%;
+      left:50%;
+      transform: translate(-50%, -50%);*/
+
+    /*display: flex;
+      justify-content: center;
+      align-content: center;*/
+      
+    /*display: grid;
+      place-items: center;*/  
+}
 }
 
 #improve{
